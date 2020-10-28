@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main()
+{
+printf("ënter the a");
+scanf("%d",&num);
+printf("ënter the d");
+scanf("%d",&num1);
+sub=a-d;
+printf("the subtraction of the number is %d",sub);
+}
