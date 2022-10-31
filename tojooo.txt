@@ -8,3 +8,4 @@ scanf("%d",&num1);
 sub=a-d;
 printf("the subtraction of the number is %d",sub);
 }
+)
